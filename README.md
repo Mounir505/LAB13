@@ -116,9 +116,6 @@ LAB 13 : Application de Localisation avec OpenStreetMap
 
 Glissez-déposez ici votre fichier de démonstration (vidéo, image ou document) pour illustrer le fonctionnement de l’application.
 
-📁 Zone de dépôt de la démonstration  
-  
-
 
 https://github.com/user-attachments/assets/7a3630ec-0479-4809-9ab4-c5662a786aae
 
